@@ -1,1 +1,3 @@
 # cellpose2.0
+
+Utilizing Cellpose2, I performed optimization and segmentation on 2 label-free cell sample images The workflow includes image loading, Cellpose model initialization, segmentation, and visualization. For optimization (not done), tweaking parameters like diameter and channels is recommended. Incorporating image processing techniques, such as denoising, can enhance segmentation accuracy.  Optimization and Image Processing: Fine-tune Cellpose parameters (e.g., diameter, channels) for improved segmentation results. Enhance image quality by integrating preprocessing steps like denoising and contrast adjustment, ensuring more accurate cell identification.  Note: This analysis focuses on two sample images for efficiency and time saving. Notebook is very basic.
